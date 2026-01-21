@@ -48,9 +48,9 @@ CodSoft Python Internship
 
 
 
-# Task-3 — Contact Book (CodSoft Python Internship)
+# Task-4 — Contact Book (CodSoft Python Internship)
 
-This is Task-3 of my CodSoft Python Internship 
+This is Task-4 of my CodSoft Python Internship 
 
 Features:
  Add new contacts  
@@ -64,9 +64,9 @@ Concepts Used:
 • Input Handling  
 • Conditional Logic  
 
-# Task-4 — Rock-Paper-Scissors Game (CodSoft Python Internship)
+# Task-5 — Rock-Paper-Scissors Game (CodSoft Python Internship)
 
-This is Task-4 of my CodSoft Python Internship.
+This is Task-5 of my CodSoft Python Internship.
 
 # Description:
 This is a console-based Rock-Paper-Scissors game where the user plays against the computer. 
