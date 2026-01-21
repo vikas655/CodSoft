@@ -64,11 +64,29 @@ Concepts Used:
 • Input Handling  
 • Conditional Logic  
 
+# Task-4 — Rock-Paper-Scissors Game (CodSoft Python Internship)
 
+This is Task-4 of my CodSoft Python Internship.
+
+# Description:
+This is a console-based Rock-Paper-Scissors game where the user plays against the computer. 
+The computer makes random choices and the winner is decided based on basic game rules. The game also allows the user to exit anytime by typing 'exit'.
+
+Features:
+ User vs Computer gameplay  
+ Random computer choice  
+ Simple winner logic  
+ Exit option to stop anytime  
+ Continuous gameplay until exit  
+
+# Concepts Used:
+• Random Module  
+• Conditional Logic  
+• Input Handling   
 
 Learning Outcome:
-Learnt how to design CRUD-based Python applications and manage user-driven operations effectively.
+This task helped in understanding how to structure simple console-based games, manage input/output handling,
+and apply basic logic patterns for user interaction.
 
-#Internship:
 CodSoft Python Internship 
 
